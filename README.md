@@ -24,7 +24,7 @@ This project was built as a part of the course Namaste React by Akshay Saini.
 1. Clone the repo
 
 ```bash
-git clone https://github.com/FoodHunt
+git clone https://github.com/queen1357/FoodHunt
 ```
 
 2. Install dependencies
